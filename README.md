@@ -409,5 +409,3 @@ The `JSON_DATA_STRING` contains either the requested data or an error message fo
 ## License
 
 This project is licensed under the MIT License.
-#   L e e t C o d e - M C P - S e r v e r  
- 
